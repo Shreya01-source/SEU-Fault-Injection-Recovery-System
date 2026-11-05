@@ -53,5 +53,13 @@ The project was simulated using QuestaSim 2025.2 on EDA Playground.
 
 [Open the EDA Playground project](https://edaplayground.com/x/Z9j6)
 
+## Simulation Results
+
+### 1. Simulation Output
+![Simulation Output](screenshots/simulation-output.png)
+
+### 2. EPWave Waveform
+![EPWave Waveform](screenshots/waveform2.png)
+
 ## Limitation
 This educational implementation assumes a single faulty register at a time. It does not guarantee recovery from simultaneous faults in multiple registers.
